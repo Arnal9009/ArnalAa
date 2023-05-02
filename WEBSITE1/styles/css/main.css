@@ -101,3 +101,13 @@ main {
     gap: 40px;
     margin-top: 70px;
 }
+
+.block_case {
+    padding: 70px 60px;
+    background: #191A23;
+    border-radius: 45px;
+    display: flex;
+    gap: 64px;
+    margin-top: 80px;
+}
+

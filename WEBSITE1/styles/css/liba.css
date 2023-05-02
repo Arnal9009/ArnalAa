@@ -85,3 +85,25 @@
     flex-direction: column;
     gap: 93px;
 }
+
+.p_white {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #fff;
+}
+
+.p_green {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #B9FF66;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mr15 {
+    margin-right: 15px;
+}
